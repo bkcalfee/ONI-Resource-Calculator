@@ -63,10 +63,5 @@ Notes
 - Resource and food numbers in `resources.py` are illustrative and simplified; they are intended for demonstration and classroom use, not exact game balances.
 - The project uses only standard Python library modules, so no additional installation is required beyond having Python itself.
 
-Next steps (optional)
----------------------
-- Add oxygen/water consumption rates and include them in the summary.
-- Add unit tests or a `demo_run.py` script that runs the demo and saves outputs automatically.
-- Create a `README` in the repository root with links to this folder and to run instructions for other scripts.
 
-If you want any of the optional next steps, tell me which and I will add them.
+
